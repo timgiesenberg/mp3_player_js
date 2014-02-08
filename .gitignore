@@ -1,2 +1,6 @@
+#folders
 config
 nbproject
+
+#files
+*.mp3
